@@ -1,0 +1,49 @@
+{
+    "cupboardData": {
+        "herbs": [
+            {
+                "id": 1,
+                "type": "herb",
+                "name": "oregano",
+                "qty": 2
+            },
+            {
+                "id": 2,
+                "type": "herb",
+                "name": "majoram",
+                "qty": 3
+            }
+        ],
+        "spices": [
+            {
+                "id": 1,
+                "type": "spice",
+                "name": "ground ginger",
+                "qty": 2
+            }
+        ],
+        "seasonings": [
+            {
+                "id": 1,
+                "type": "seasoning",
+                "name": "chicken seasoning",
+                "qty": 1
+            }
+        ],
+        "sauces": [
+            {
+                "id": 1,
+                "type": "sauce",
+                "name": "sweet and sour",
+                "qty": 2
+            }
+        ]
+    },
+    "shoppingListItems": [
+        {
+            "id": 1,
+            "type": "sauce",
+            "name": "sweet and sour"
+        }
+    ]
+}
